@@ -28,6 +28,14 @@ JellyFish: A Dark theme For sublime text 4. Inspired from vscode-jellyfish.
 
 <br>
 
+![Preview](https://raw.githubusercontent.com/anubhavkrishna1/sublime-jellyfish/main/images/Preview2.png)
+
+<br>
+
+![Preview](https://raw.githubusercontent.com/anubhavkrishna1/sublime-jellyfish/main/images/Preview3.png)
+
+<br>
+
 ### Installation
 
 ###### Recommended
