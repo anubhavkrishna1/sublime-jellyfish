@@ -193,9 +193,15 @@
     },
     {
       "name": "HTML Attributes",
-      "foreground": "#FFCB6B",
+      "foreground": "#00FFFF",
       "font_style": "italic",
       "scope": "text.html.basic entity.other.attribute-name.html, text.html.basic entity.other.attribute-name"
+    },
+    {
+      "name": "HTML Attributes",
+      "foreground": "#00FFFF",
+      "font_style": "italic",
+      "scope": "entity.other.attribute-name.class.html"
     },
     {
       "name": "CSS Classes",
