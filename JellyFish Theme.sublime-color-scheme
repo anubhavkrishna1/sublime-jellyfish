@@ -29,17 +29,17 @@
     "tags_foreground": "",
     "shadow": ""
   },
-  "variables": {
-    "black": "",
-    "white": "",
-    "red": "",
-    "green": "",
-    "yellow": "",
-    "orange": "",
-    "blue": "",
-    "magenta": "",
-    "cyan": ""
-  },
+  // "variables": {
+  //   "black": "",
+  //   "white": "",
+  //   "red": "",
+  //   "green": "",
+  //   "yellow": "",
+  //   "orange": "",
+  //   "blue": "",
+  //   "magenta": "",
+  //   "cyan": ""
+  // },
   "rules": [
     {
       "name": "Comment",
