@@ -434,6 +434,55 @@
       "foreground": "#EEFFFF",
       "font_style": 0,
       "scope": "markup.table"
+    },
+    {
+      "name": "YAML Key",
+      "scope": "entity.name.tag.yaml",
+      "foreground": "#ff0062"
+    },
+    {
+      "name": "YAML String",
+      "scope": "string.unquoted.yaml, string.quoted.double.yaml, string.quoted.single.yaml",
+      "foreground": "#82AAFF"
+    },
+    {
+      "name": "YAML Number",
+      "scope": "constant.numeric.yaml",
+      "foreground": "#F78C6C"
+    },
+    {
+      "name": "YAML Boolean",
+      "scope": "constant.language.boolean.yaml",
+      "foreground": "#C3E88D"
+    },
+    {
+      "name": "YAML Null",
+      "scope": "constant.language.null.yaml",
+      "foreground": "#89DDFF",
+      "font_style": "italic"
+    },
+    {
+      "name": "YAML Anchor & Alias",
+      "scope": "variable.language.yaml",
+      "foreground": "#FF5370",
+      "font_style": "bold"
+    },
+    {
+      "name": "YAML Comment",
+      "scope": "comment.line.number-sign.yaml",
+      "foreground": "#546E7A",
+      "font_style": "italic"
+    },
+    {
+      "name": "YAML Tag",
+      "scope": "entity.other.tag.yaml",
+      "foreground": "#F07178",
+      "font_style": "italic"
+    },
+    {
+      "name": "YAML Indentation Indicator",
+      "scope": "meta.structure.dictionary.key.yaml",
+      "foreground": "#EFB863"
     }
   ]
 }
