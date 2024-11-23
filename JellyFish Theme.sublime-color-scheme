@@ -16,9 +16,10 @@
     "line_diff_modified": "#d9ff00",
     "line_diff_deleted": "#ff0000",
     "selection": "#ff00885d",
+    // "selection_foreground":  "#ff00885d",
     "inactive_selection": "",
     "inactive_selection_foreground": "#ffffff",
-    "highlight": "#5252529d",
+    "highlight": "rgba(255, 23, 243, 0.62)",
     "find_highlight": "rgba(172, 48, 255, 0.62)",
     "find_highlight_foreground": "",
     "guide": "",
@@ -67,7 +68,7 @@
     {
       "name": "Invalid",
       "foreground": "#FF5370",
-      "font_style": 0,
+      "font_style": "squiggly_underline",
       "scope": "invalid, invalid.illegal"
     },
     {
