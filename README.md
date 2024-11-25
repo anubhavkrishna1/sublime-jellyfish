@@ -40,10 +40,10 @@ JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish
 
 ###### Recommended
 
-You can install `JellyFish Color Theme` via [Package Control](https://packagecontrol.io/).
+You can install `JellyFish Color Sheme` via [Package Control](https://packagecontrol.io/).
 
 1. Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
-2. Type `install package` and press enter. Then search for `JellyFish Color Theme`
+2. Type `install package` and press enter. Then search for `JellyFish Color Sheme`
 
 ###### Manual
 
