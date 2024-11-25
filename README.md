@@ -19,7 +19,7 @@
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
 
 ---
-JellyFish: A Dark theme For sublime text 4. Inspired from vscode-jellyfish.
+JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish.
 <br>
 
 <br>
