@@ -13,7 +13,7 @@
 
 </div>
 
-
+[![Downloads](https://img.shields.io/packagecontrol/dt/JellyFish%20Color%20Scheme)](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme)
 ![JellyFish](https://img.shields.io/badge/Theme-JellyFish-%23ff0055)
 ![GitHub](https://img.shields.io/github/license/anubhavkrishna1/sublime-jellyfish?color=%23ff0055&label=License&logo=License&style=flat)
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
